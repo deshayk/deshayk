@@ -6,7 +6,11 @@ My Technologies:
 
 Quick Points:
 🔭 I’m currently honing skills in Bootstrap5 and completing the Google UX Design Certificate.
+
 💬 Ask me about: my master's thesis, my favorite anime, or my latest project.
+
 📫 How to reach me: connect@kiddsplay.co
+
 😊 Pronouns: She/Her
+
 👩🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of Rosetta Stone is for.
