@@ -12,7 +12,7 @@ Quick Points:
 
 💬 Ask me about: my master's thesis, my favorite anime, or my latest project.
 
-📫 How to reach me: connect@kiddsplay.co
+📫 How to reach me: send me a dm @TeacherDeShay
 
 😊 Pronouns: She/Her
 
