@@ -1,6 +1,5 @@
 Welcome to my page!
-I'm DeShay, and I am at the intersection of education and tech. I began my journey as an ESL teacher and
-a front-end developer and UX designer. 
+I'm DeShay, and I am at the intersection of education and tech. I am an educator,front-end developer, and UX designer. 
 
 I am passionate about making learning accessible and equitable for all.
 
