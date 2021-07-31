@@ -3,6 +3,7 @@ Welcome:
 I'm DeShay, and I am at the intersection of education and tech. I am an educator, developer, and UX designer. I am passionate about knoweldge being accessible and equitable for all, one of my goals include creating programs to help people from non-technical backgrounds gain technical skills for free.
 
 My Technologies:
+
 👩🏾‍💻 HTML5, CSS3, Bootstrap5, JavaScript, and PHP. 
 
 Quick Points:
