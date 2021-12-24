@@ -1,4 +1,6 @@
-GitHub Visitors:![Profile views](https://gpvc.arturio.dev/deshayk) 
+![Profile views](https://gpvc.arturio.dev/deshayk) 
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-streak-stats)
 
 Welcome:
 
@@ -29,9 +31,7 @@ Ruby: [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://http
 Windows: [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
 
-Extras:
-
+<!-- Extras: -->
 <!-- Github Stats: [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats) -->
-Most Used Languages: [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats)
-Streak: [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-streak-stats)
+
 
