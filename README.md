@@ -1,5 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/deshayk) 
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats)
+
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-streak-stats)
 
 Welcome:
@@ -24,11 +26,11 @@ Quick Points:
 
 Technologies: 
 
-Azure: [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
-JavaScript: [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-Python: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-Ruby: [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
-Windows: [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+[![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
 
 <!-- Extras: -->
