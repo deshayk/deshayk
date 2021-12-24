@@ -1,4 +1,4 @@
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-streak-stats) [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-streak-stats) 
 
 
 
