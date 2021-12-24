@@ -25,7 +25,7 @@ Quick Points:
 👩🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
 Technologies: 
-[![Amazon Web Services](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
+[![Amazon Web Services](https://badgen.net/badge/icon/amazon?icon=aws&label)](https://aws.amazon.com/)
 [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
 [![Java](https://badgen.net/badge/icon/java?icon=java&label)](https://developer.oracle.com/)
 [![Javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
