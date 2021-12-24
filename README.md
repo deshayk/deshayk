@@ -1,3 +1,5 @@
+GitHub Visitors:![Profile views](https://gpvc.arturio.dev/deshayk) 
+
 Welcome:
 
 Soft skills of an educator, technical knowledge of an IT Professional.
@@ -29,8 +31,7 @@ Windows: [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](
 
 Extras:
 
-Profile Views:![Profile views](https://gpvc.arturio.dev/deshayk)
-Github Stats: [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats)
+<!-- Github Stats: [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats) -->
 Most Used Languages: [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats)
 Streak: [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-streak-stats)
 
