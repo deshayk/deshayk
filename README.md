@@ -17,18 +17,23 @@ Quick Points:
 👩🏾‍💻 I'm studying for the following Microsoft exams: DP-900 Azure Data Fundamentals, AI 900 Azure AI Fundamentals, AZ-900 Azure fundamentals, AZ-104 Azure Administrator, and AZ-204 Azure Solutions Developer. 
 
 💬 Ask me about: my tech journey, my favorite anime, or my latest project.
+
+✍🏽 I'm looking to work with education professionals to design and teach tech-related curriculums to K-12 students.
  
 😊 Pronouns: She/Her
 
 👩🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
 Technologies: 
-
+[![Amazon Web Services](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
 [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Java](https://badgen.net/badge/icon/java?icon=java&label)](https://developer.oracle.com/)
+[![Javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![Linux](https://badgen.net/badge/icon/linux?icon=linux&label)](https://www.linux.org/)
+[![MacOS](https://badgen.net/badge/icon/mac?icon=mac&label)](https://www.apple.com/macos/monterey/)
+[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+[![WindowsOS](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
 
 <!-- Extras: -->
