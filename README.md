@@ -28,10 +28,10 @@ Technologies:
 [![Amazon Web Services](https://badgen.net/badge/icon/amazon?icon=aws&label)](https://aws.amazon.com/)
 [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
 [![Java](https://badgen.net/badge/icon/java?icon=java&label)](https://developer.oracle.com/)
-[![Javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![Javascript](https://img.shields.io/badge/JavaScript-1f425f.svg)](https://www.javascript.com)
 [![Linux](https://badgen.net/badge/icon/linux?icon=linux&label)](https://www.linux.org/)
 [![MacOS](https://badgen.net/badge/icon/mac?icon=mac&label)](https://www.apple.com/macos/monterey/)
-[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-1f425f.svg)](https://www.python.org/)
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 [![WindowsOS](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
