@@ -41,15 +41,6 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 [![MacOS](https://badgen.net/badge/icon/mac?icon=mac&label)](https://www.apple.com/macos/monterey/)
 [![WindowsOS](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
-## Lets Connect:
-
-<a href="https://www.linkedin.com/in/deshayk/"><img align="left" src="https://raw.githubusercontent.com/deshayk/deshayk/main/images/linkedin.svg" alt="Jennifer Opal | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/_teacherdeshay"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/teacherdeshay/main/images/instagram.svg" alt="DeShay | Instagram" width="21px"/></a>
-<a href="http://kiddsplay.co/"><img align="left" src="https://raw.githubusercontent.com/deshayk/deshayk/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
-
-<!-- Extras: -->
-<!-- Github Stats: [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deshayk&theme=blue-green)](https://github.com/deshayk/github-readme-stats) -->
-
 ![Profile views](https://gpvc.arturio.dev/deshayk) 
 
 
