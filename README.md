@@ -4,9 +4,13 @@
 </p>
 
 ## Introduction:
+<h3 align="center">
+    Hi, I'm <a href="http://jenniferopal.co/" target="_blank" rel="">DeShay</a>, but you can call me Shay if you talk to me nice.
+</h3>
+
 Soft skills of an educator, technical knowledge of an IT Professional.
 
-I'm DeShay, but you can call me Shay if you talk to me nice. I have been making my official transition into the world of tech since 2020 but I have been designing and developing websites since 2015. 
+I have been making my official transition into the world of tech since 2020 but I have been designing and developing websites since 2015. 
 
 I am passionate about knoweldge being accessible and equitable for all, one of my goals includes creating and working for programs whose mission is to help people from non-technical and marginalized backgrounds gain technical skills for free.
 
