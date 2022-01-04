@@ -1,5 +1,10 @@
 https://www.canva.com/design/DAE0bFtMXZQ/view
 
+<p align="center">
+    <a href="http://kiddsplay.co/" target="_blank" rel=""><img width="1500" height="300" src="/Images/Github Banner.png" alt="Github Banner">
+    </a>
+</p>
+
 ## Introduction
 Soft skills of an educator, technical knowledge of an IT Professional.
 
