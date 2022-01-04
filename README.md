@@ -1,11 +1,9 @@
-https://www.canva.com/design/DAE0bFtMXZQ/view
-
 <p align="center">
     <a href="http://kiddsplay.co/" target="_blank" rel=""><img width="1500" height="300" src="/Images/Github Banner.png" alt="Github Banner">
     </a>
 </p>
 
-## Introduction
+## Introduction:
 Soft skills of an educator, technical knowledge of an IT Professional.
 
 I'm DeShay, but you can call me Shay if you talk to me nice. I have been making my official transition into the world of tech since 2020 but I have been designing and developing websites since 2015. 
