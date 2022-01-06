@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="http://kiddsplay.co/" target="_blank" rel=""><img width="1500" height="300" src="/Images/Github Banner.png" alt=">
+    <a href="http://kiddsplay.co/" target="_blank" rel=""><img width="1500" height="300" src="/Images/Github Banner.png" alt="Github Banner for DeShay K.">
     </a>
 </p>
 
