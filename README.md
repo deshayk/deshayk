@@ -5,7 +5,7 @@
 
 ## Introduction:
 <h3 align="center">
-    Hi, I'm DeShay, the brain child of <a href="http://jenniferopal.co/" target="_blank" rel="">Kidd's Play</a>, but you can call me Shay if you talk to me nice.
+    Hi, I'm DeShay, the brain child of <a href="http://jenniferopal.co/" target="_blank" rel="">Kidd's Play</a>, but you can call me Shay.
 </h3>
 
 Soft skills of an educator, technical knowledge of an IT Professional.
