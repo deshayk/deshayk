@@ -20,7 +20,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 ✍🏽 January 2022 Study Focus: Microsoft Certified: Azure Fundamentals and Oracle Cloud Infrastructure Foundations Associate Certification
 
-💬 Ask me about: my tech journey, my favorite anime, or my latest project.
+💬 Ask me about: my tech journey, my favorite anime, or my latest project (Konnect).
  
 😊 Pronouns: She/Her/They
 
