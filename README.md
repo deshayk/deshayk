@@ -16,7 +16,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 ## Quick Points:
 
-🔭 I’m currently working towards gaining an Associates of Applied Science in Computer Programming. 
+🔭 I’m currently working towards gaining an Associates of Applied Science in Computer Programming. My main programming lanugages of choice are Java and Python.
 
 ✍🏽 January 2022 Study Focus: AWS Certified Cloud Practitioner, Microsoft Certified: Azure Fundamentals, Oracle Cloud Infrastructure Foundations Associate Certification
 
