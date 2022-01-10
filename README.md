@@ -47,7 +47,3 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 [![Linux](https://badgen.net/badge/icon/linux?icon=linux&label)](https://www.linux.org/)
 [![MacOS](https://badgen.net/badge/icon/mac?icon=mac&label)](https://www.apple.com/macos/monterey/)
 [![WindowsOS](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-
-![Profile views](https://gpvc.arturio.dev/deshayk) 
-
-
