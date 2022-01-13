@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAE1WBbI8wo/view)
+![Banner](github-banner.png)
 
 ## Introduction:
 <h3 align="center">
