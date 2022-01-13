@@ -4,7 +4,7 @@
     Hi, I'm DeShay. I've been called many things over the years, but my main role is being a life-long learner.
 </h3>
 
-Soft skills of an educator, technical knowledge of a developer.
+Soft skills of an educator, technical knowledge of an IT professional.
 
 I have been making my official transition into the world of tech since 2020 but I have been designing and developing websites since 2015. One of my biggest goals in 2022 is to bet hired by a great company to build solutions that help make people's lives easier.
 
