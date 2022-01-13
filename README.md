@@ -1,4 +1,3 @@
-![Banner](github-banner.png)
 
 ## Introduction:
 <h3 align="center">
@@ -25,9 +24,9 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 ## I’m currently learning 
 
-- Cloud Computing ☁️
+- App Development 👩🏾‍💻
 - Blockchain & Smart Contracts ⛓
-- Java and Python Software Development 👩🏾‍💻
+- Cloud Computing ☁️
 
 ## Technologies: 
 ### Cloud Computing: 
