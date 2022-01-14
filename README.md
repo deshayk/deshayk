@@ -30,7 +30,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 - Cloud Computing ☁️
 
 ## Technologies: 
-### Cloud Computing: 
+### Cloud Computing
 ![AWS](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
