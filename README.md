@@ -31,8 +31,8 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 ## Technologies: 
 ### Cloud Computing: 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&color=23FF9900)
-[![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) 
+![AWS](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Content Creation
 [![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshayk)
@@ -40,9 +40,13 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 🤵🏽‍♀️Check out my blog! Did you know that I went to the 2016 Democratic National Convention as journalist? Storytelling is one of my favorite passtimes. 
 
 ### Development 
-[![Java](https://badgen.net/badge/icon/java?icon=java&label)](https://developer.oracle.com/)
-[![Javascript](https://img.shields.io/badge/JavaScript-1f425f.svg)](https://www.javascript.com)
-[![Python](https://img.shields.io/badge/Python-1f425f.svg)](https://www.python.org/)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
