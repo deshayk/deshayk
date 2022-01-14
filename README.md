@@ -35,8 +35,9 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) 
 
 ### Content Creation
-Did you know that I went to the 2016 Democratic National Convention as journalist? 
 ![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+Check out my blog! Did you know that I went to the 2016 Democratic National Convention as journalist? I get serious about my writing :SMILE:
 
 ### Development 
 [![Java](https://badgen.net/badge/icon/java?icon=java&label)](https://developer.oracle.com/)
