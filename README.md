@@ -12,9 +12,9 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 ## Quick Points:
 
-🔭 I’m currently working towards gaining an Associates of Applied Science in Computer Programming. My main programming lanugages of choice are Java and Python.
+🔭 I’m currently working on my Associates of Applied Science in Computer Programming with a focus in Application Development - Cloud Computing
 
-✍🏽 January 2022 Study Focus: Microsoft Certified: Azure Fundamentals and Oracle Cloud Infrastructure Foundations Associate Certification
+✍🏽 January 2022 Study Focus: Microsoft Certified: Azure Fundamentals and Smart Contract Development (Solidity)
 
 💬 Ask me about: my tech journey, my favorite anime, or my latest project (Konnect).
  
@@ -37,7 +37,6 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 [![Java](https://badgen.net/badge/icon/java?icon=java&label)](https://developer.oracle.com/)
 [![Javascript](https://img.shields.io/badge/JavaScript-1f425f.svg)](https://www.javascript.com)
 [![Python](https://img.shields.io/badge/Python-1f425f.svg)](https://www.python.org/)
-[![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 
 ### Operating Systems
 [![Linux](https://badgen.net/badge/icon/linux?icon=linux&label)](https://www.linux.org/)
