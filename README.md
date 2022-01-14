@@ -43,4 +43,4 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 [![MacOS](https://badgen.net/badge/icon/mac?icon=mac&label)](https://www.apple.com/macos/monterey/)
 [![WindowsOS](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
-![DeShay's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![DeShay's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)
