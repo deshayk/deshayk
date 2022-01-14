@@ -47,5 +47,3 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 ### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![DeShay's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)
