@@ -36,7 +36,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 ### Content Creation
 Did you know that I went to the 2016 Democratic National Convention as journalist? 
-[Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ### Development 
 [![Java](https://badgen.net/badge/icon/java?icon=java&label)](https://developer.oracle.com/)
@@ -44,7 +44,7 @@ Did you know that I went to the 2016 Democratic National Convention as journalis
 [![Python](https://img.shields.io/badge/Python-1f425f.svg)](https://www.python.org/)
 
 ### Operating Systems
-[Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-[Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![DeShay's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)
