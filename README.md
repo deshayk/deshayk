@@ -39,8 +39,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 [![Python](https://img.shields.io/badge/Python-1f425f.svg)](https://www.python.org/)
 
 ### Operating Systems
-[![Linux](https://badgen.net/badge/icon/linux?icon=linux&label)](https://www.linux.org/)
-[![MacOS](https://badgen.net/badge/icon/mac?icon=mac&label)](https://www.apple.com/macos/monterey/)
-[![WindowsOS](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
 ![DeShay's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deshayk&theme=blue-green)
