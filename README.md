@@ -1,3 +1,6 @@
+![game](<iframe src="https://chromedino.com/mario/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>)
+
 ![banner](github-banner.png)
 ## Introduction:
 <h3 align="center">
@@ -15,7 +18,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 🔭 I’m currently working on my Associates of Applied Science in Computer Programming with a focus in Application Development - Cloud Computing
 
-✍🏽 January 2022 Study Focus: Microsoft Certified: Azure Fundamentals and Smart Contract Development (Solidity)
+✍🏽 January 2022 Study Focus: Cloud Computing (Microsoft Azure and Oracle Cloud) and Smart Contract Development (Solidity)
 
 💬 Ask me about: my tech journey, my favorite anime, or my latest project (Konnect).
 
