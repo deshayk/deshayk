@@ -15,11 +15,11 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 🔭 I’m currently working on my Associates of Applied Science in Computer Programming with a focus in Application Development - Cloud Computing
 
-✍🏽 January 2022 Study Focus: Cloud Computing (Microsoft Azure and Oracle Cloud) and Smart Contract Development (Solidity)
+✍🏽 February 2022 Study Focus: Cloud Computing (Microsoft Azure and Oracle Cloud) and Smart Contract Development (Solidity)
 
 💬 Ask me about: my tech journey, my favorite anime, or my latest project (Konnect).
 
-✍🏽 Currently working as a technical writer.
+✍🏽 Currently working as a technical writer with an emphasis on cybersecurity.
 
 🧑🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
