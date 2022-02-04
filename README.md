@@ -19,7 +19,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 💬 Ask me about: my tech journey, my favorite anime, or my latest project (Konnect).
 
-👯 I’m looking to contribute to open source projects
+👯 Currently working as a technical writer.
 
 🧑🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
