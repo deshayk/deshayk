@@ -1,4 +1,4 @@
-![banner](github-banner.png)
+![banner](/github-banner.png)
 ## Introduction:
 <h3 align="center">
     Hi, I'm DeShay. I've been called many things over the years, but my main role is being a life-long learner.
