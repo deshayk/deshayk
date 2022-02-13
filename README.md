@@ -56,6 +56,4 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact"></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshayk&"></p>
