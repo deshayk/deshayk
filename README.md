@@ -25,7 +25,7 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 
 ## I’m currently learning 
 
-- App Development 👩🏾‍💻
+- App Development & Ethical Hacking 👩🏾‍💻
 - Blockchain & Smart Contracts ⛓
 - Cloud Computing ☁️
 
