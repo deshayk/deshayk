@@ -55,5 +55,5 @@ I am passionate about knoweldge being accessible and equitable for all, one of m
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<!-- ## Stats -->
-<!-- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&) -->
+## Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
