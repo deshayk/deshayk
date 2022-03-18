@@ -13,9 +13,9 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 
 👩🏾‍💻 I’m currently working on my Associates of Applied Science in Computer Programming with a focus in Application Development - Cloud Computing
 
-✍🏽 March 2022 Study Focus: Cloud Computing (AWS and Microsoft Azure) and Smart Contract Development (Solidity)
+✍🏽 March 2022 Study Focus: Cloud Computing (AWS and Microsoft Azure) and Smart Contract and dApps development on the Ethereum network. (Solidity)
 
-💬 Ask me about: my tech journey, my favorite anime, or my latest project (Konnect).
+💬 Ask me about: my tech journey, my favorite anime, or my latest project (Standard DAO).
 
 🧑🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
