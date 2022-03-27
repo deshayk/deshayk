@@ -15,14 +15,17 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 
 ✍🏽 March 2022 Study Focus: Cloud Computing (AWS and Microsoft Azure) and Smart Contract and dApps development on the Ethereum network. (Solidity)
 
-💬 Ask me about: my tech journey, my favorite anime, or my latest blockchain project.
+💬 Ask me about: 
+- Just finished working: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone 
+- Currently Watching: Blue Period
+- DeFi Project: Standard DAO
 
 🧑🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
 ## I’m currently learning 
 
-- App Development & Ethical Hacking 👩🏾‍💻
-- Blockchain & Smart Contracts ⛓
+- App Development using Python 👩🏾‍💻
+- Blockchain & Smart Contracts on the Ethereum Network ⛓
 - Cloud Computing ☁️
 
 ## Teacher Turned Techie
