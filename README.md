@@ -19,13 +19,14 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 - Just finished working: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone 
 - Currently Watching: Blue Period
 - DeFi Project: Standard DAO
+- Technical Writing Projects and Collaborations
 
 🧑🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
 ## I’m currently learning 
 
 - App Development using Python 👩🏾‍💻
-- Blockchain & Smart Contracts on the Ethereum Network ⛓
+- Blockchain & Smart Contracts on the Ethereum Network using Solidity ⛓
 - Cloud Computing ☁️
 
 ## Teacher Turned Techie
