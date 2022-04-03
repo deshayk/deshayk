@@ -13,11 +13,11 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 
 👩🏾‍💻 I’m currently working on my Associates of Applied Science in Computer Programming with a focus in Application Development - Cloud Computing
 
-✍🏽 March 2022 Study Focus: Cloud Computing (AWS and Microsoft Azure) and Smart Contract and dApps development on the Ethereum network. (Solidity)
+✍🏽 April 2022 Study Focus: Cloud Computing (Microsoft Azure) and App Development (Python and Solidity)
 
 💬 Ask me about: 
-- Just finished working: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone 
-- Currently Watching: Blue Period
+- Just finished working: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
+- Currently (re)Watching: Inuyasha
 - DeFi Project: Standard DAO
 - Technical Writing Projects and Collaborations
 
@@ -34,9 +34,7 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 
 <!-- 
 ## Work with Me
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)  -->
-
-🤵🏽‍♀️Check out my blog! Did you know that I went to the 2016 Democratic National Convention as journalist? Storytelling is one of my favorite passtimes. 
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)  --> 
 
 ## Technologies: 
 ### Cloud Computing
