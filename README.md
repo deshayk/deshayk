@@ -29,12 +29,12 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 - Blockchain & Smart Contracts on the Ethereum Network using Solidity ⛓
 - Cloud Computing ☁️
 
-## Teacher Turned Techie
+<!-- ## Teacher Turned Techie
 [![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshayk)
 
 
 ## Work with Me
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)  
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   -->
 
 ## Technologies: 
 ### Cloud Computing
@@ -59,7 +59,6 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Design
