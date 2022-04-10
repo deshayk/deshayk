@@ -33,8 +33,8 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 [![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshayk)
 
 
-<!-- ## Work with Me
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)  -->
+## Work with Me
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) 
 
 ## Technologies: 
 ### Cloud Computing
