@@ -29,12 +29,12 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 - Blockchain & Smart Contracts on the Ethereum Network using Solidity ⛓
 - Cloud Computing ☁️
 
-## Teacher Turned Techie
+<!-- ## Teacher Turned Techie
 [![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshayk)
 
 
 ## Work with Me
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) 
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   --> -->
 
 ## Technologies: 
 ### Cloud Computing
