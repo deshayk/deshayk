@@ -13,13 +13,13 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 
 👩🏾‍💻 I’m currently working on my Associates of Applied Science in Computer Programming with a focus in Application Development - Cloud Computing
 
-✍🏽 April 2022 Study Focus: Cloud Computing (Microsoft Azure) and App Development (Python and Solidity)
+✍🏽 April 2022 Study Focus: Cloud Computing (Microsoft Azure and Data Fundamentals) and App Development (Python and Solidity - Ethereum Network)
 
 💬 Ask me about: 
 - Just finished working: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
-- Currently (re)Watching: Inuyasha
-- DeFi Project: Standard DAO
-- Technical Writing Projects and Collaborations
+- Currently Watching: The 100
+- DeFi Project: Standard DAO, Carthago, Chain2Family
+- Technical Writing & Content Writing Projects and Open-Source Collaboration
 
 🧑🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
 
