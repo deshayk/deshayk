@@ -77,3 +77,5 @@ Soft skills of an educator, technical knowledge of an IT professional. I am pass
 
 ## Stats
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
+<p></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk" /></p>
