@@ -1,42 +1,33 @@
 ![banner](/April2022%20Banner.png)
-## Introduction:
 <h3 align="center">
-    Hi, I'm DeShay. I've been called many things over the years, but my main role is being a life-long learner.
+    Hi, I'm DeShay, the jack(ette) of all trades.
 </h3>
 
-Soft skills of an educator, technical knowledge of an IT professional. I am passionate about knoweldge being accessible and equitable for all. I believe in the open-source movement. I am working to learn more about Blockchain, specifically technologies associated with the Ethereum Network.
+As a life-long learner, I am passionate about knoweldge being accessible to and equitable for all. I learn and teach by doing so this GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
 
-## Quick Points:
 😊 Pronouns: She/Her 
 
-✍🏽 Profession: Technical Writer & Developer
+👩🏾‍💻 Profession: Blockchain Developer & Technical Writer
 
-👩🏾‍💻 I’m currently working on my Associates of Applied Science in Computer Programming with a focus in Application Development - Cloud Computing
+🌱 I’m currently working on my Associates of Applied Science.
 
-✍🏽 April 2022 Study Focus: Cloud Computing (Microsoft Azure and Data Fundamentals) and App Development (Python and Solidity - Ethereum Network)
+✍🏽 April 2022 Study Focus: NFT and DApp Development (Ethereum and Chainlink Network)
 
 💬 Ask me about: 
-- Just finished working: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
-- Currently Watching: The 100
-- DeFi Project: Standard DAO, Carthago, Chain2Family
-- Technical Writing & Content Writing Projects and Open-Source Collaboration
+- Anime I've Just Finished Watching: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
+- Shows I'm Currently Watching: The 100
+- Blockchain Projects I Work With:: Standard DAO, Carthago, Chain2Family
 
-🧑🏾‍🏫 Fun fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in Northen China. My Chinese pronunciation isn't that great but that's what hours of practicing on Rosetta Stone is for.
-
-## I’m currently learning 
-
-- App Development using Python 👩🏾‍💻
-- Blockchain & Smart Contracts on the Ethereum Network using Solidity ⛓
-- Cloud Computing ☁️
+🧑🏾‍🏫 Fun Fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in China.
 
 <!-- ## Teacher Turned Techie
 [![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshayk)
 
 
 ## Work with Me
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   --> -->
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   -->  
 
-## Technologies: 
+## Technologies 
 ### Cloud Computing
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
