@@ -3,13 +3,13 @@
     Hi, I'm DeShay, the Web3 Developer and Technical Writer.
 </h3>
 
-As a life-long learner, I am passionate about knoweldge being accessible to and equitable for all. I learn and teach by doing so this GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
+As a life-long learner, I am passionate about knowledge being accessible to and equitable for all. I learn and teach by doing so this GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
 
 😊 Pronouns: She/Her 
 
 👩🏾‍💻 Profession: Blockchain Developer & Technical Writer
 
-🌱 I’m currently working on my Associates of Applied Science.
+🌱 I’m currently working on my Associate of Applied Science.
 
 ✍🏽 April 2022 Study Focus: NFT and DApp Development (Ethereum and Chainlink Network)
 
@@ -18,7 +18,7 @@ As a life-long learner, I am passionate about knoweldge being accessible to and 
 - Shows I'm Currently Watching: The 100
 - Blockchain Projects I Work With:: Standard DAO, Carthago, Chain2Family
 
-🧑🏾‍🏫 Fun Fact: One of my most memorable professional experiences incldues teaching over 200 wonderful ESL learners at a university in China.
+🧑🏾‍🏫 Fun Fact: One of my most memorable professional experiences include teaching over 200 wonderful ESL learners at a university in China.
 
 <!-- ## Teacher Turned Techie
 [![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshayk)
