@@ -68,5 +68,4 @@ As a life-long learner, I am passionate about knowledge being accessible to and 
 
 ## Stats
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
-<p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk" /></p> -->
