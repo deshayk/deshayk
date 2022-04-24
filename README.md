@@ -1,6 +1,6 @@
 ![banner](/April2022%20Banner.png)
 <h3 align="center">
-    Hi, I'm DeShay, the jack(ette) of all trades.
+    Hi, I'm DeShay, the developer and technical writer.
 </h3>
 
 As a life-long learner, I am passionate about knoweldge being accessible to and equitable for all. I learn and teach by doing so this GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
