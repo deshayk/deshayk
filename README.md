@@ -67,4 +67,4 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)<src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk"/> 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
