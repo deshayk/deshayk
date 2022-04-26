@@ -11,20 +11,20 @@ As a life-long learner, I am passionate about knowledge being accessible to and 
 
 🌱 I’m currently working on my Associate of Applied Science.
 
-✍🏽 April 2022 Study Focus: NFT and DApp Development (Ethereum and Chainlink Network)
+✍🏽 April 2022 Study Focus: NFT and DApp Development (smart contracts and DApps on the Ethereum Network)
 
 💬 Ask me about: 
-- Anime I've Just Finished Watching: Juju Kaisen (movies and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
-- Shows I'm Currently Watching: The 100
+- Anime I've Just Finished Watching: Juju Kaisen (movie and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
+- Shows I'm Currently (re)Watching: Modern Family
 - Blockchain Projects I Work With:: Standard DAO, Carthago, Chain2Family
 
 🧑🏾‍🏫 Fun Fact: One of my most memorable professional experiences include teaching over 200 wonderful ESL learners at a university in China.
 
-<!-- ## Teacher Turned Techie
-[![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deshayk)
+## Teacher Turned Techie
+[![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+You can see examples of my writing on my [Medium profile](https://medium.com/@deshayk) where I write about blockchain technologies and programming.
 
-
-## Work with Me
+<!-- ## Work with Me
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   -->  
 
 ## Technologies 
@@ -51,7 +51,7 @@ As a life-long learner, I am passionate about knowledge being accessible to and 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Design
-<!-- ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) -->
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -67,5 +67,4 @@ As a life-long learner, I am passionate about knowledge being accessible to and 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk" /></p> -->
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk"/> 
