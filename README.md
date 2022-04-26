@@ -1,6 +1,6 @@
 ![banner](/April2022%20Banner.png)
 <h3 align="center">
-    Hi, I'm DeShay, the Web3 Developer and Technical Writer.
+    Hi, I'm DeShay, a Blockchain Developer and Technical Writer.
 </h3>
 
 As a life-long learner, I am passionate about knowledge being accessible to and equitable for all. I learn and teach by doing so this GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
@@ -67,4 +67,4 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk"/> 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)<src="https://github-readme-stats.vercel.app/api/top-langs?username=deshayk&show_icons=true&locale=en&layout=compact" alt="deshayk"/> 
