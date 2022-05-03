@@ -2,7 +2,7 @@
 <h3 align="center">
     Hi, I'm DeShay, a Blockchain Developer and Technical Writer.
 </h3>
-
+<img src="https://komarev.com/ghpvc/?username=deshayk&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
 As a life-long learner, I am passionate about knowledge being accessible to and equitable for all. I learn and teach by doing so this GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
 
 😊 Pronouns: She/Her 
