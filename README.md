@@ -67,5 +67,5 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
 <img src="https://komarev.com/ghpvc/?username=deshayk&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
