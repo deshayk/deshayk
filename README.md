@@ -3,9 +3,9 @@
 ![banner](/May22%20Banner.png)
 
 <h3 align="center">
-    Hi, I'm DeShay, a Blockchain Developer and Technical Writer.
+    Hi, I'm DeShay, a Technical Writer and Web Developer.
 </h3>
-As a life-long learner, I am passionate about knowledge being accessible to and equitable for all. I learn and teach by doing so this GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
+As a life-long learner, I am passionate about knowledge being accessible to and equitable for all. I learn and teach by doing. This GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
 
 😊 Pronouns: She/Her 
 
@@ -27,8 +27,8 @@ As a life-long learner, I am passionate about knowledge being accessible to and 
 
 You can see examples of my writing on my [Medium profile](https://medium.com/@deshayk) where I write about blockchain technologies and programming.
 
-<!-- ## Work with Me
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)   -->  
+## Work with Me
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) 
 
 ## Technologies 
 ### Cloud Computing
