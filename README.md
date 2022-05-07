@@ -69,5 +69,5 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
+<!-- ## Stats -- Until I get a nice enough streak back lol --
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&) -->
