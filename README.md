@@ -11,16 +11,105 @@ As a life-long learner, I am passionate about knowledge being accessible to and 
 
 👩🏾‍💻 Profession: Blockchain Developer & Technical Writer
 
-🌱 I’m currently working on my Associate of Applied Science.
+🌱 I’m currently working on my Associate of Applied Science in Computer Programing.
 
-✍🏽 April 2022 Study Focus: NFT and DApp Development (smart contracts and DApps on the Ethereum Network)
+✍🏽 May 2022 Study Focus: Blockchain Technologies and Use Cases, Web3 Development
 
 💬 Ask me about: 
 - Anime I've Just Finished Watching: Juju Kaisen (movie and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
 - Shows I'm Currently (re)Watching: Modern Family
-- Blockchain Projects I Work With:: Standard DAO, Carthago, Chain2Family
+- Blockchain Companies and Projects I've Work With: Carthago, Chain2Family, Project Passport, Standard DAO, Weed Street
 
 🧑🏾‍🏫 Fun Fact: One of my most memorable professional experiences include teaching over 200 wonderful ESL learners at a university in China.
+
+## Projects
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+            <!-- PROJECT #1 -->
+				<h3 align="center" color="white">Learn By Doing (Python) - Hangman</h2> 
+				<div align="center" >  
+					<a href='https://ethodeus.github.io/breaking-bad-info-page/'>
+						<img src="" alt="" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p>Platform for Breaking Bad fans to find general information about their favorite characters!</p>
+				</div>
+			</td>
+			<td width="50%">
+            <!-- PROJECT #2 -->
+				<h3 align="center" color="white">Learn By Doing (JavaScript) - Tic-Tac-Toe</h2>
+				<div align="center" >  
+					<a href='https://github.com/deshayk/Tic-Tac-Toe-JS'>
+						<img src="" alt="" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					 <p>Simple app to help you decide which drinks to make at your party!</p>
+				</div>
+	<tr>
+		<td width="50%">
+        <!-- PROJECT #3 -->
+			<h3 align="center" color="white">Learn By Doing (Python) - Morse Code</h2>
+			<div align="center" >  
+				<a href='https://sebastianospina.netlify.app'>
+					<img src="" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://sebastianospina.netlify.app" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p><strong>Portfolio Site including links to my projects and ways to get in contact with me.</p>
+			</div>
+		</td>
+		<td width="50%">
+        <!-- PROJECT #4 -->
+			<h3 align="center" color="white">Learn By Doing (JavaScript) - Tetris</h2>
+			<div align="center" >  
+				<a href='https://github.com/deshayk/javascript-tetris'>
+					<img src="" alt="Tetris" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/Ethodeus/simple-calculator-project" target="_blank">
+						<img src=""/>
+					</a>  
+					<a href="https://ethodeus.github.io/simple-calculator-project/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p> On the latest installment of Learn By Doing we have the classic arcade game of Tetris.</p>
+			</div>	
+		</td>
+	</table>
+</div>
+<br />
+<br />
 
 ## Teacher Turned Techie
 ![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
