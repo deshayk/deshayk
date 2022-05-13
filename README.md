@@ -5,8 +5,6 @@
 <h3 align="center">
     Hi, I'm DeShay, a Technical Writer and Web Developer.
 </h3>
-As a life-long learner, I am passionate about knowledge being accessible to and equitable for all. I learn and teach by doing. This GitHub repository is a collection of projects, trials, and errors I've worked on as I embark on my journey of becoming a better developer. 
-
 😊 Pronouns: She/Her 
 
 👩🏾‍💻 Profession: Blockchain Developer & Technical Writer
@@ -158,5 +156,5 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&)
+<!-- ## Stats -- Until I get a nice enough streak back lol --
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deshayk&) -->
