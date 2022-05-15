@@ -55,7 +55,7 @@
 					<br>
 					<p>
 						<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_blank">
-							<!-- <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/> -->
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
