@@ -61,7 +61,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					 <p>Simple app to help you decide which drinks to make at your party!</p>
+					 <p></p>
 				</div>
 	<tr>
 		<td width="50%">
