@@ -3,111 +3,20 @@
 ![banner](/May22%20Banner.png)
 
 <h3 align="center">
-    Hi, I'm DeShay, a Technical Writer and Web Developer.
+    Hi, I'm DeShay, an Educator, Technical Writer, and Web Developer.
 </h3>
 😊 Pronouns: She/Her 
 
 👩🏾‍💻 Profession: Blockchain Developer & Technical Writer
 
-🌱 I’m currently working on my Associate of Applied Science in Computer Programing.
-
-✍🏽 May 2022 Study Focus: Blockchain Technologies and Use Cases, Web3 Development
+✍🏽 May 2022 Study Focus: Blockchain Technologies and Web3 Development
 
 💬 Ask me about: 
-- Anime I've Just Finished Watching: Juju Kaisen (movie and series), Demon Slayer, Kotaro Lives Alone, Blue Period 
+- Anime I've Just Finished Watching: Juju Kaisen (movie and series), Demon Slayer, Kotaro Lives Alone, and Blue Period 
 - Shows I'm Currently (re)Watching: Modern Family
 - Blockchain Companies and Projects I've Work With: Carthago, Chain2Family, Project Passport, Standard DAO, Weed Street
 
 🧑🏾‍🏫 Fun Fact: One of my most memorable professional experiences include teaching over 200 wonderful ESL learners at a university in China.
-
-## Projects
-<div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-            <!-- PROJECT #1 -->
-				<h3 align="center" color="white">Learn By Doing (Python) - Hangman</h2> 
-				<div align="center" >  
-					<a href='https://ethodeus.github.io/breaking-bad-info-page/'>
-						<img src="" alt="" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					<p>Platform for Breaking Bad fans to find general information about their favorite characters!</p>
-				</div>
-			</td>
-			<td width="50%">
-            <!-- PROJECT #2 -->
-				<h3 align="center" color="white">Learn By Doing (JavaScript) - Tic-Tac-Toe</h2>
-				<div align="center" >  
-					<a href='https://github.com/deshayk/Tic-Tac-Toe-JS'>
-						<img src="" alt="" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					 <p></p>
-				</div>
-	<tr>
-		<td width="50%">
-        <!-- PROJECT #3 -->
-			<h3 align="center" color="white">Learn By Doing (Python) - Morse Code</h2>
-			<div align="center" >  
-				<a href='https://sebastianospina.netlify.app'>
-					<img src="" height="100%" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="https://sebastianospina.netlify.app" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
-				</p>
-				<p><strong>Portfolio Site including links to my projects and ways to get in contact with me.</p>
-			</div>
-		</td>
-		<td width="50%">
-        <!-- PROJECT #4 -->
-			<h3 align="center" color="white">Learn By Doing (JavaScript) - Tetris</h2>
-			<div align="center" >  
-				<a href='https://github.com/deshayk/javascript-tetris'>
-					<img src="" alt="Tetris" height="100%" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/Ethodeus/simple-calculator-project" target="_blank">
-						<img src=""/>
-					</a>  
-					<a href="https://ethodeus.github.io/simple-calculator-project/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
-				</p>
-				<p> On the latest installment of Learn By Doing we have the classic arcade game of Tetris.</p>
-			</div>	
-		</td>
-	</table>
-</div>
-<br />
-<br />
 
 ## Teacher Turned Techie
 ![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
@@ -153,7 +62,6 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!-- ## Stats -- Until I get a nice enough streak back lol --
