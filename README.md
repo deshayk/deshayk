@@ -3,7 +3,7 @@
 ![banner](/May22%20Banner.png)
 
 <h3 align="center">
-    Hi, I'm DeShay, an Educator, Technical Writer, and Web Developer.
+    Hi, I'm DeShay, a Blockchain Analyst, Educator, Technical Writer, and Web Developer.
 </h3>
 😊 Pronouns: She/Her 
 
