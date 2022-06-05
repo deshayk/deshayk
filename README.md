@@ -9,7 +9,7 @@
 
 👩🏾‍💻 Profession: Blockchain Developer & Technical Writer
 
-✍🏽 June 2022 Focus: Javascript, Web3 Development, Thai Language Learning
+✍🏽 June 2022 Focus: Javascript and Blockchain Analyst 
 
 💬 Ask me about: 
 - Anime I've Just Finished Watching: Juju Kaisen (movie and series), Demon Slayer, Kotaro Lives Alone, and Blue Period 
