@@ -1,7 +1,7 @@
-<!-- <img src="https://komarev.com/ghpvc/?username=deshayk&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
+<img src="https://komarev.com/ghpvc/?username=deshayk&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
 
 ![banner](/May22%20Banner.png)
- -->
+
 <h3 align="center">
     Hi, I'm DeShay, a Blockchain Analyst, Educator, Technical Writer, and Web Developer.
 </h3>
