@@ -22,9 +22,9 @@
 ![Check out my Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 You can see examples of my writing on my [Medium profile](https://medium.com/@deshayk) where I write about blockchain technologies and programming.
-
+<!-- 
 ## Work with Me
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) 
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)  -->
 
 ## Technologies 
 ### Cloud Computing
