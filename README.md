@@ -1,15 +1,15 @@
-<!-- <img src="https://komarev.com/ghpvc/?username=deshayk&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
+<img src="https://komarev.com/ghpvc/?username=deshayk&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
 
-![banner](/May22%20Banner.png) -->
+![banner](/May22%20Banner.png)
 
 <h3 align="center">
-    Hi, I'm DeShay, a Blockchain Enthusiast, Educator, Technical Writer, and Web Developer.
+    Hi, I'm DeShay K., a Blockchain Enthusiast, Educator, Technical Writer, and Web Developer.
 </h3>
 😊 Pronouns: She/Her 
 
-👩🏾‍💻 Profession: Blockchain Developer & Technical Writer
+👩🏾‍💻 Profession: Copy Writer, Educator (Blockchain & English), Technical Writer
 
-✍🏽 June 2022 Focus: Javascript and Blockchain Analyst 
+✍🏽 June 2022 Focus: Javascript and Blockchain Technologies
 
 💬 Ask me about: 
 - Anime I've Just Finished Watching: Juju Kaisen (movie and series), Demon Slayer, Kotaro Lives Alone, and Blue Period 
