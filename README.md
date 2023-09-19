@@ -3,6 +3,9 @@
 </h1>
 😊 Pronouns: She/Her
 
+![TryHackMe](https://tryhackme.com/badge/2106942)
+<script src="https://tryhackme.com/badge/2106942"></script>
+
 ✍🏽 Skill Development: 
 - Artifical Intelligence Development and Research 
 - Cybersecurity 
