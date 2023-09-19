@@ -6,7 +6,7 @@
 ✍🏽 Skill Development: 
 - Artifical Intelligence Development and Research 
 - Cybersecurity 
-- Microsoft Azure
+- Microsoft Azure AI Tools
 - Python
 
 💬 Ask me about: 
@@ -23,8 +23,6 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 ### Artifical Intelligence and Machine Learning
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9cstyle=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### Cloud Computing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -53,7 +51,6 @@ You can see examples of my writing on my [Medium profile](https://medium.com/@de
 
 ### Frameworks, Platforms, and Libraries
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 
 ### Operating Systems & Browsers
