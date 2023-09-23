@@ -7,7 +7,6 @@
 - Artifical Intelligence Development and Research 
 - Cybersecurity 
 - Microsoft Azure AI Tools
-- Python
 
 💬 Ask me about: 
 - Recent White Paper: ![BSN Spartan Network](https://spartan.bsn.foundation/static/BSN%20Spartan%20Network%20White%20Paper.pdf)
