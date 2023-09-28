@@ -21,10 +21,6 @@
 
 
 ## Technologies 
-### Artifical Intelligence and Machine Learning
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9cstyle=for-the-badge&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 ### Cloud Computing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
