@@ -1,7 +1,5 @@
 <h1 align="center">
     Hi, I'm DeShay K.
-</h1>
-😊 Pronouns: She/Her
 
 ✍🏽 Skill Development: 
 - Artifical Intelligence Development and Research 
